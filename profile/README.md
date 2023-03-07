@@ -3,5 +3,34 @@
 - **02/28/23**:
 - **03/07/23**:
 - **03/14/23**: SPRING BREAK - NO MEETING
-- **03/21/23**:
-- **03/28/23**:
+- **03/21/23**: Mike - [Introduction to Convolutional Neural Networks]
+- **03/28/23**: Informal Discussion
+- **04/04/23**: 
+- **04/11/23**: Informal Discussion
+- **04/18/23**: Jose - [Genetic Algorithms]
+- **04/25/23**: Informal Discussion
+- **05/02/23**: 
+- **05/09/23**: Informal Discussion
+- **05/16/23**: Raman - [Intro to Natural Language Processing]
+
+
+Learning goals:
+- Natural Language Processing [NLP]
+- Training software (tensorboard etc.)
+- Transformers
+- Transfer Learning
+- Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing
+- Containerization 
+- Auto-Encoders
+- Genetic Algorithms
+- Heuristic Methods
+- Model Interpretibility
+- Metrics
+- Computer Vision
+- Physics Informed ML
+- Adversareal Learning (GANNS)
+- Self/Semi-Supervised Learning
+- Online-Learning
+- Dimensiionality Reduction
+- Stocastic Neighbor Embedding
+- 
