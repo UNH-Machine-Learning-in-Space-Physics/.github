@@ -8,7 +8,7 @@
 - **04/04/23**: Raman - [Intro to Natural Language Processing](https://github.com/UNH-Machine-Learning-in-Space-Physics/NLP-tutorial)
 - **04/11/23**: Informal Discussion
 - **04/18/23**: Jose - [Genetic Algorithms]
-- **04/25/23**: Informal Discussion
+- **04/25/23**: Informal Discussion - Brianna will maybe have a talk.
 - **05/02/23**: Invited Talk: Jeremiah Johnson
 - **05/09/23**: Invited Talk: Satanu Ghosh
 - **05/16/23**: 
