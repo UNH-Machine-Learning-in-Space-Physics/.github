@@ -11,8 +11,9 @@
 - **04/25/23**: Informal Discussion - Brianna will maybe have a talk.
 - **05/02/23**: Invited Talk: Jeremiah Johnson
 - **05/09/23**: Invited Talk: Satanu Ghosh
-- **05/16/23**: 
-
+- **05/16/23**: Invited Talk: Andy (Kernal PCA/Auto-Encoder)
+- **05/23/23**: Informal Talk
+c
 
 Learning goals:
 - Natural Language Processing [NLP]
