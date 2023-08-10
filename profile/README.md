@@ -17,4 +17,4 @@ Learning goals:
 - Online-Learning
 - Dimensiionality Reduction
 - Stocastic Neighbor Embedding
-- 
+- AWS/CLoud Computing
