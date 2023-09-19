@@ -29,7 +29,7 @@ Fall 2023 Schedule:
 - Sep 12: Informal Discussion
 - Sep 19
 - Sep 26: Guest Talk (Meghna Asthana - Computer Vision)
-- Oct 3
+- Oct 3: Guest Talk/ Discussion (Matthew Argall)
 - Oct 10: Informal Discussion
 - Oct 17
 - Oct 24: Informal Discussion
