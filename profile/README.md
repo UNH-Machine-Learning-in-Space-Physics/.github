@@ -31,11 +31,11 @@ Fall 2023 Schedule:
 - Sep 26: Guest Talk (Meghna Asthana - Computer Vision)
 - Oct 3: Guest Talk/ Discussion (Matthew Argall)
 - Oct 10: Informal Discussion
-- Oct 17
+- Oct 17: Transfer Learning (Mike)
 - Oct 24: Informal Discussion
-- Oct 31
+- Oct 31: 
 - Nov 7: Informal Discussion
-- Nov 14
-- Nov 21: Informal Discussion
-- Nov 28
+- Nov 14:
+- Nov 21: Canceled!
+- Nov 28:
 - Dec 5: Informal Discussion/ AGU practice?
