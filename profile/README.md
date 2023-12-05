@@ -1,25 +1,27 @@
 Learning goals:
-- Natural Language Processing [NLP]
+- ~~Natural Language Processing [NLP]~~
 - Training software (tensorboard etc.)
-- Transformers
-- Transfer Learning (Priority)(Mike)
+- ~~Transformers~~
+- ~~Transfer Learning (Priority)(Mike)~~~
 - Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing
-- Containerization 
-- Auto-Encoders (Andy)
-- Genetic Algorithms
+- Containerization (Brianna!!)
+- ~~Auto-Encoders (Andy)~~
+- ~~Genetic Algorithms~~
 - Heuristic Methods
 - Model Interpretibility (Mike)
 - Metrics
-- Computer Vision
+- ~~Computer Vision~~
 - Physics Informed ML (Priority)
-- Adversareal Learning (GANNS)
-- Self/Semi-Supervised Learning
+- Adversareal Learning + Generative (GANNS) (Andy)
+- Self/Semi-Supervised Learning (Mike)
 - Online-Learning
 - Dimensiionality Reduction
 - Stocastic Neighbor Embedding
-- AWS/CLoud Computing (Raman)
+- ~~AWS/CLoud Computing (Raman)~~
 - Quantum Computing (Brianna)
-- Self-Organizing Maps (Andy)
+- ~~Self-Organizing Maps (Andy)~~
+- Bayesian NN (Opal)
+- Graph NN (Jose)
 
 
 Fall 2023 Schedule:
