@@ -24,20 +24,14 @@ Learning goals:
 - Graph NN (Jose)
 
 
-Fall 2023 Schedule:
+Spring 2024 Talk Schedule:
 
-- Aug 29: Informal Discussion/ Planning/ Welcome Back
-- Sep 5: AWS/CLoud Computing (Raman)
-- Sep 12: Informal Discussion
-- Sep 19
-- Sep 26: Guest Talk (Meghna Asthana - Computer Vision)
-- Oct 3: Guest Talk/ Discussion (Matthew Argall)
-- Oct 10: Informal Discussion
-- Oct 17: Transfer Learning (Mike)
-- Oct 24: Informal Discussion
-- Oct 31: 
-- Nov 7: Informal Discussion
-- Nov 14:
-- Nov 21: Canceled!
-- Nov 28:
-- Dec 5: Informal Discussion/ AGU practice?
+- Feb 13: Talha - Variational AutoEncoders
+- Feb 27: Self/Semi Supervised Learning (Mike)
+- Mar 12: Pytorch - Messi(GOAT) (Tomi)
+- Mar 26: Online Learning (Jose)
+- Apr 9: Eclipse (Public ML lecture)
+- Apr 23: LLMs (Brianna)
+- May 7: PINNs (Raman)
+- May 21:
+  
