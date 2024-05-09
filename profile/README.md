@@ -11,7 +11,7 @@ Learning goals:
 - Model Interpretibility (Mike)
 - Metrics
 - ~~Computer Vision~~
-- Physics Informed ML (Priority)
+- ~~Physics Informed ML (Raman)~~
 - Adversareal Learning + Generative (GANNS) (Andy)
 - Self/Semi-Supervised Learning (Mike)
 - Online-Learning
