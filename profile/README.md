@@ -2,9 +2,9 @@ Learning goals:
 - ~~Natural Language Processing [NLP]~~
 - Training software (tensorboard etc.)
 - ~~Transformers~~
-- ~~Transfer Learning (Priority)(Mike)~~~
-- Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing
-- Containerization (Brianna!!)
+- ~~Transfer Learning (Priority)(Mike)~~
+- Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing (Hanieh)
+- Containerization (Brianna!!!)
 - ~~Auto-Encoders (Andy)~~
 - ~~Genetic Algorithms~~
 - Heuristic Methods
@@ -13,7 +13,7 @@ Learning goals:
 - ~~Computer Vision~~
 - ~~Physics Informed ML (Raman)~~
 - Adversareal Learning + Generative (GANNS) (Andy)
-- Self/Semi-Supervised Learning (Mike)
+- ~~Self/Semi-Supervised Learning (Mike)~~
 - Online-Learning
 - Dimensiionality Reduction
 - Stocastic Neighbor Embedding
@@ -22,6 +22,22 @@ Learning goals:
 - ~~Self-Organizing Maps (Andy)~~
 - Bayesian NN (Opal)
 - Graph NN (Jose)
+- Deep Emulators (Raman)
+- KANNs (Brianna) Kolomogorov born 1903 died in the 80s ANDREEE
+- Boosting
+- Backpropagation (also, talk about NN differentiability!)
+
+## Fall 2024 Talk Schedule
+- Oct 1:
+- Oct 8: Efficent(!) Data Preprocessing
+- Oct 15: Model Interpretability (Mike)
+- Oct 22:
+- Oct 29: Deep Emulators (Raman)
+- Nov 5: 
+- Nov 12: KANNs (Brianna)
+- Nov 19:
+- Nov 26:
+- Dec 3: 
 
 
 Spring 2024 Talk Schedule:
