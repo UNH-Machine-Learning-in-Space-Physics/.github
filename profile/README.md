@@ -30,12 +30,12 @@ Learning goals:
 ## Fall 2024 Talk Schedule
 - Oct 1:
 - Oct 8: Efficent(!) Data Preprocessing
-- Oct 15: Model Interpretability (Mike)
+- Oct 15: 
 - Oct 22:
 - Oct 29: Deep Emulators (Raman)
-- Nov 5: 
-- Nov 12: KANNs (Brianna)
-- Nov 19:
+- Nov 5: Model Interpretability (Mike)
+- Nov 12:
+- Nov 19: KANNs (Brianna)
 - Nov 26:
 - Dec 3: 
 
