@@ -4,11 +4,11 @@ Learning goals:
 - ~~Transformers~~
 - ~~Transfer Learning (Priority)(Mike)~~
 - Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing (Hanieh)
-- Containerization (Brianna!!!)
+- Containerization (Brianna!!!!)
 - ~~Auto-Encoders (Andy)~~
 - ~~Genetic Algorithms~~
 - Heuristic Methods
-- Model Interpretibility (Mike)
+- ~~Model Interpretibility (Mike)~~
 - Metrics
 - ~~Computer Vision~~
 - ~~Physics Informed ML (Raman)~~
@@ -22,12 +22,25 @@ Learning goals:
 - ~~Self-Organizing Maps (Andy)~~
 - Bayesian NN (Opal)
 - Graph NN (Jose)
-- Deep Emulators (Raman)
-- KANNs (Brianna) Kolomogorov born 1903 died in the 80s ANDREEE
+- ~~Deep Emulators (Raman)~~
+- ~~KANNs (Brianna) Kolomogorov born 1903 died in the 80s ANDREEE~~
 - Boosting
 - Backpropagation (also, talk about NN differentiability!)
+- ML Flow (Brianna)
 
-## Fall 2024 Talk Schedule
+## Spring 2025 Schedule:
+
+- Feb 4:
+- Feb 18:
+- Mar 4:
+- Mar 18: Raman
+- Apr 1: MLFlow (Brianna...or will she?)
+- Apr 15: Mike (defense prequel)
+- Apr 29:
+- May 13:
+- May 27:
+
+Fall 2024 Talk Schedule
 - Oct 1:
 - Oct 8:
 - Oct 15: 
