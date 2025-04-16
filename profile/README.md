@@ -4,7 +4,7 @@ Learning goals:
 - ~~Transformers~~
 - ~~Transfer Learning (Priority)(Mike)~~
 - Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing (Hanieh)
-- Containerization (Brianna!!!!)
+- Containerization (Brianna!!!!!)
 - ~~Auto-Encoders (Andy)~~
 - ~~Genetic Algorithms~~
 - Heuristic Methods
@@ -12,10 +12,10 @@ Learning goals:
 - Metrics
 - ~~Computer Vision~~
 - ~~Physics Informed ML (Raman)~~
-- Adversareal Learning + Generative (GANNS) (Andy)
+- Adversarial Learning + Generative (GANNS) (Andy)
 - ~~Self/Semi-Supervised Learning (Mike)~~
 - Online-Learning
-- Dimensiionality Reduction
+- Dimensionality Reduction
 - Stocastic Neighbor Embedding
 - ~~AWS/CLoud Computing (Raman)~~
 - Quantum Computing (Brianna)
@@ -26,7 +26,8 @@ Learning goals:
 - ~~KANNs (Brianna) Kolomogorov born 1903 died in the 80s ANDREEE~~
 - Boosting
 - Backpropagation (also, talk about NN differentiability!)
-- ML Flow (Brianna)
+- ~~Attribution methods & information missingness (Raman)~~
+- ~~ML Flow (Brianna)~~
 
 ## Spring 2025 Schedule:
 
