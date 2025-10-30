@@ -4,15 +4,16 @@ Learning goals:
 - ~~Transformers~~
 - ~~Transfer Learning (Priority)(Mike)~~
 - Exploritoritory Data Analysis (EDA) / Efficient Data Preprocessing (Hanieh)
-- Containerization (Brianna!!!!!)
+- Containerization (Brianna!!!!!!)
 - ~~Auto-Encoders (Andy)~~
-- ~~Genetic Algorithms~~
+- ~~Genetic Algorithms (Jose)~~
 - Heuristic Methods
 - ~~Model Interpretibility (Mike)~~
 - Metrics
 - ~~Computer Vision~~
 - ~~Physics Informed ML (Raman)~~
-- Adversarial Learning + Generative (GANNS) (Andy)
+- Physics Informed ML / PINNs, v2 (Alvin!)
+- Adversarial Learning + Generative (GANNS)
 - ~~Self/Semi-Supervised Learning (Mike)~~
 - Online-Learning
 - Dimensionality Reduction
@@ -28,6 +29,17 @@ Learning goals:
 - Backpropagation (also, talk about NN differentiability!)
 - ~~Attribution methods & information missingness (Raman)~~
 - ~~ML Flow (Brianna)~~
+- SHAP
+- Feature engineering with CCA (Tae)
+
+## Fall 2025 Schedule:
+
+- Nov 6: 
+- Nov 13: Integrated Gradients v2 (Raman)
+- Nov 20: 
+- Nov 27: 
+- Dec 4: 
+- Dec 11: PINNs (Alvin) (Hopefully)
 
 ## Spring 2025 Schedule:
 
